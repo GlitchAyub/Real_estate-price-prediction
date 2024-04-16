@@ -1,0 +1,4 @@
+.venv/
+
+#extension
+*.csv
