@@ -23,4 +23,16 @@ Brief description of your project.
 1. First, install dependencies:
 
 ```bash
-npm install
+pip install numpy
+pip install scikit-learn
+
+## virtual Environment [optional]
+
+Windows:
+    .venv\Scripts\activate
+    .venv\Scripts\python
+
+Unix/macOS:
+    source .venv/bin/activate
+    .venv/bin/python
+
