@@ -1,8 +1,8 @@
 # Real_Estate Price Prediction
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/repositoryname.svg)](https://github.com/yourusername/repositoryname/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/repositoryname.svg)](https://github.com/yourusername/repositoryname/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/GlitchAyub/Real_estate-price-prediction.svg)](https://github.com/yGlitchAyub/Real_estate-price-prediction/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/GlitchAyub/Real_estate-price-prediction.svg)](https://github.com/GlitchAyub/Real_estate-price-prediction/pulls)
 
 Brief description of your project.
 
